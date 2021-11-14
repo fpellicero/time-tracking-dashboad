@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f684f9b-e1a7-4a37-82f7-399bfd55c94f/deploy-status)](https://app.netlify.com/sites/quirky-keller-39ad1f/deploys)
+
 # Frontend Mentor - Time tracking dashboard solution
 
 This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
